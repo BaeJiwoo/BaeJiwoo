@@ -29,16 +29,13 @@
 
 ---
 
-
-
 ### 🚀 Projects
 
 | Project | Tech Stack | Description | Link |
 |:---|:---|:---|:---:|
-| **MOGameServer** | C++, WinSock2, IOCP | 틱 기반 멀티플레이어 게임 서버 및 스냅숏 구현 | [GitHub](https://github.com/BaeJiwoo?tab=repositories) |
-| **CasualRpgServer** | C#, ASP.NET Core, EF Core, MySQL | Unity 연동 RPG 백엔드 및 REST API 개발 | [GitHub](https://github.com/BaeJiwoo?tab=repositories) |
-| **AnyShip** | Python, FastAPI, Docker, AWS | AI 기반 코드 분석 및 클라우드 배포 자동화 | [GitHub](https://github.com/BaeJiwoo?tab=repositories) |
-| **AI Battery Defect Classification** | Python, Deep Learning | 배터리 결함 분류 AI 연구 및 11개 후보 모델 선정 기준 수립 | [Research Report](https://drive.google.com/file/d/102iSaDmpwXmJbLmVYlAl1-2hrTVnSBon/view?usp=sharing) |
+| **MoongTangE** | C++20, IOCP, epoll, Protobuf, ASP.NET Core | 서버 권위적 3D 물리 시뮬레이션 및 멀티플레이 게임 서버 | [GitHub](https://github.com/BaeJiwoo/MoongTangE) |
+| **NetworkProgramming** | C++, WinSock2, IOCP | TCP/IP 소켓 프로그래밍 및 IOCP 기반 게임 서버 개발 학습 | [GitHub](https://github.com/BaeJiwoo/NetworkProgramming) |
+| **AI Battery Defect Classification** | Python, Deep Learning | 배터리 결함 이미지 분류 및 임베디드 AI 모델 선정 연구 | [Report](https://drive.google.com/file/d/102iSaDmpwXmJbLmVYlAl1-2hrTVnSBon/view?usp=sharing) |
 
 ---
 
