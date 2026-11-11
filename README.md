@@ -18,7 +18,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 **대구가톨릭대학교** | 게임공학전공
-- 🌳 **Yggdrasil** | 게임 개발 동아리 창립 및 회장 (37명 규모)
+- 🌳 **Yggdrasil** | 게임 개발 동아리 창립 및 회장 재임
 - 🎮 **Game Server Programming** | C++ 네트워크 프로그래밍 및 게임 서버 개발
 - ☁️ **Backend & Cloud** | ASP.NET Core, FastAPI, AWS 기반 서비스 개발
 - 🤖 **AI Research** | 이미지 분류 AI 연구 및 실험 설계 경험
